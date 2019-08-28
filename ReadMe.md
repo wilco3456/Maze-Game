@@ -15,13 +15,13 @@ Other systems have not been tested, and it is advised to have caution with untes
 * Firstly, you will be prompted to enter ther filename of the maze or quit.  
 **NOTE: type *quit* if you wish terminate the program or type *maze61.txt*, if you wish to proceed with the game's execution. A different maze file can also be selected, if the contents of the file are of a similar format to the file *maze61.txt*.**
 
-* Once the program has oficially launched, you may use the arrow keys to control the marker:
-  * **UP** Key, to move the marker upwards.
-  * **DOWN** Key, to move the marker downwards.
-  * **LEFT** Key, to move the marker to the left.
-  * **RIGHT** Key, to move the marker to the right.
+* Once the program has oficially launched, you may use the arrow keys to control the blue marker:
+  * **UP** Key, to move the blue marker upwards.
+  * **DOWN** Key, to move the blue marker downwards.
+  * **LEFT** Key, to move the blue marker to the left.
+  * **RIGHT** Key, to move the blue marker to the right.
 
-* Once you have traversed the blue marker to the red marker, you'll either be informed whether you have won the game.
+* Once you have traversed the blue marker to the location of the red marker, you'll be informed that you have won the game.
 
 ## Example Gameplay
 <pre>
