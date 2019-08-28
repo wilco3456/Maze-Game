@@ -93,3 +93,7 @@ maze61.txt
 #############################################################
 
 </pre>
+
+## Visual Demo
+
+![Maze_Demo](/Images/Maze_Demo.png)
