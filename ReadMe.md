@@ -13,7 +13,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 ## How to use the Program:
 * Firstly, you will be prompted to enter ther filename of the maze or quit.  
-**NOTE: type *quit* if you wish terminate the program or type *maze61.txt* if you wish to proceed with the game. A different maze file can also be selected, if the contents of the file are of a similar format to the file *maze61.txt*.**
+**NOTE: type *quit* if you wish terminate the program or type *maze61.txt*, if you wish to proceed with the game's execution. A different maze file can also be selected, if the contents of the file are of a similar format to the file *maze61.txt*.**
 
 * Once the program has oficially launched, you may use the arrow keys to control the marker:
   * **UP** Key, to move the marker upwards.
